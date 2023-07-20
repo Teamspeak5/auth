@@ -1,0 +1,77 @@
+{
+	"TempBans": [{
+		"HWID": "EXAMPLE",
+		"BannedUntil": 1674547200,
+		"Reason": "abusing the title spawning feature."
+	}],
+	"PermBans": [{
+			"HWID": "aa3b8522-590b-4eac-838c-2af056ab31e3",
+			"Reason": "chargeback without warning."
+		},
+		{
+			"HWID": "aab848fd-078b-4910-8703-de548a9b4cf2",
+			"Reason": "Scammer."
+		},
+		{
+			"HWID": "aa1f9403-8d4f-4eda-b7bf-4a17990bfbb0",
+			"Reason": "Scammer."
+		},
+		{
+			"HWID": "aae795ee-d29b-407f-8799-9dd032e37a8e",
+			"Reason": "Scammer."
+		},
+		{
+			"HWID": "aa248c5e-6098-45db-b1fa-8fde1d67c5fa",
+			"Reason": "Scammer."
+		},
+		{
+			"HWID": "aa3884ad-ebff-46d0-b524-a9bceb793340",
+			"Reason": "GrizzlyMod."
+		},
+		{
+			"HWID": "aad85d96-f477-4041-b600-dac8b361fa99",
+			"Reason": "Scammer."
+		},
+		{
+			"HWID": "aa302249-633f-48c8-bcf8-f2e7bed031d0",
+			"Reason": "Scammer."
+		},
+		{
+			"HWID": "aa0f1dce-5da1-4c11-b003-ffa9d7748bb0",
+			"Reason": "Scammer."
+		},
+		{
+			"HWID": "aa9769f5-0f81-4b9c-875d-5d14737d755c",
+			"Reason": "Scammer."
+		},
+		{
+			"HWID": "aa6661f9-9ca4-4fd1-ab53-dfa5a5b53a58",
+			"Reason": "Scammer."
+		},
+		{
+			"HWID": "aa763e27-34de-4f41-b172-0170c9910039",
+			"Reason": "Scammer."
+		},
+                {
+			"HWID": "aa763e27-34de-4f41-b172-0170c9910039",
+			"Reason": "Scammer."
+		},
+                {
+			"HWID": "aa0b723c-a7b8-b201-5cc8-78dc156dae09",
+			"Reason": "Scammer."
+		},
+                {
+			"HWID": "aa21d61d-ba3c-418a-addb-7e50bdea545f",
+			"Reason": "Kyhrow."
+		},
+		{
+			"HWID": "aa46f9b7-7193-4f55-802f-acd135fdc29d",
+			"Reason": "Scammer."
+		}
+	],
+	"InviteFeatureBans": [{
+		"HWID": "EXAMPLE",
+		"BannedUntil": 1674547200,
+		"Reason": "inviting streamers repeatedly."
+	}]
+}
